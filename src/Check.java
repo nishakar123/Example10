@@ -5,5 +5,6 @@ public class Check {
 		System.out.println("Check check");
 		System.out.println("Main Ends");
 		System.out.println("Ok");
+		System.out.println();
 	}
 }
